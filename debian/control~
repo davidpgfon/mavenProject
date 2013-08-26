@@ -1,0 +1,15 @@
+Source: pruebamaven
+Section: misc
+Priority: extra
+Maintainer: Systeam <systeam@sample.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.1
+Homepage: http://www.domain.com/
+X-Build-For: wheezy
+
+Package: pruebamaven
+Architecture: all 
+Depends: ${misc:Depends}
+Description: Dummy package
+ The long description...
+ More description lines.
