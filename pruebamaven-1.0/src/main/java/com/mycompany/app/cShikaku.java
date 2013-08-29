@@ -10,7 +10,7 @@ public class cShikaku {
 	
 	public cShikaku(){
 		numeritos=96;
-		t=new tablero("s.txt");
+		t=new tablero("shikakutest.txt");
 		resultado= new ArrayList<tablero>();
 		vueltaAtras(t);
 		
