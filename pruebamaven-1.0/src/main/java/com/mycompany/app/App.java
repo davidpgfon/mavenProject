@@ -25,6 +25,7 @@ public class App
         System.out.println( "Hello World!" );
 	System.out.println( "Hello World!" );
 	System.out.println( "OK!" );
+	System.out.println( "OK2!" );
     }
 }
 
