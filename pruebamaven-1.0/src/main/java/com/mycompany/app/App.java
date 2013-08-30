@@ -24,6 +24,7 @@ public class App
 	//r=new rectangulo();
         System.out.println( "Hello World!" );
 	System.out.println( "Hello World!" );
+	System.out.println( "OK!" );
     }
 }
 
