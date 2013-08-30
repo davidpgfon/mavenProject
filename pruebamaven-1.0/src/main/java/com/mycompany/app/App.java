@@ -23,7 +23,7 @@ public class App
 	//rectangulo r;
 	//r=new rectangulo();
         System.out.println( "Hello World!" );
-	System.out.println( "Hello World!" );	
+	System.out.println( "Bye" );	
 	
     }
 }
