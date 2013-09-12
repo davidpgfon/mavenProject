@@ -6,9 +6,10 @@ Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.1
 Homepage: http://www.domain.com/
 X-Build-For: wheezy
+ X-Build-For: wheezy
 
 Package: pruebamaven
-Architecture: all 
+Architecture: all
 Depends: ${misc:Depends}
 Description: Dummy package
  The long description...
